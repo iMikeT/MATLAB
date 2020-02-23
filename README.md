@@ -5,4 +5,4 @@ MATLAB Files Repository
 
 - Old Scripts are from my university modules.
 
-Here I will upload the files relating to the MATLAB course I helped teach. They can be viewed or download for your own use.
+Here I will upload the files relating to the MATLAB course I helped teach and the files I wrote for my university MATLAB modules. They can be download for your own use.
